@@ -1,4 +1,4 @@
-# Basdonax AI RAG v1.0
+# TIBOT v1.0
 
 Este repositorio contiene todo lo necesario para poder desplegar TIBOT chat con Inteligencia Artificial para el area de soporte tecnico y recursos humanos de TI724, que utiliza los modelos open source de Meta y de Microsoft: `Llama3-7b` y `Phi3-4b` dando la posibilidad de subir documentos y hacer consultas a los mismos.
 
