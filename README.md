@@ -71,16 +71,15 @@ Tenemos que dejarnos en el escritorio el archivo de `open_rag.bat` si estamos en
 Ahora tenemos que abrirlo y modificarlo, tenemos que agregar la ruta donde hicimos/tenemos el `docker-compose.yml`, por ejemplo mi ruta es:
 
 ```
-C:\Users\fcore\OneDrive\Desktop\Basdonax\basdonax-rag>
+F:\embeddings\TIBOT
 ```
 
 Entonces en mi caso va a ser así el `open_rag.bat` (el .sh es lo mismo):
 
 ```
-cd C:\Users\fcore\OneDrive\Desktop\Basdonax\basdonax-rag
+cd F:\embeddings\TIBOT
 docker-compose up -d
 ```
 
 Ahora mientras que tengamos el Docker/Docker Desktop prendido y mientras que ejecutemos este archivo vamos a poder acceder al RAG en este link: http://localhost:8080
 
-Próximo paso: disfrutar
